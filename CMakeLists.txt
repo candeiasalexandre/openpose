@@ -1,3 +1,4 @@
+cmake_minimum_required(VERSION 3.14)
 ### VERSION INFO
 set(OpenPose_VERSION_MAJOR 1)
 set(OpenPose_VERSION_MINOR 4)
